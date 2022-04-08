@@ -1,0 +1,74 @@
+body{
+    background-image: url(../12.png);
+    background-size: cover;
+    font-family: Comic Sans MS;
+ }
+table#t01 {
+    border-collapse:collapse;
+    margin-top: -87px;
+    margin-left:299px;
+    width: 500px;
+    top: auto;
+    background-color: rgb(52, 58, 60) ;
+    color: rgb(202, 216, 228);
+    }
+table#t02{
+    color: aliceblue;
+        border-collapse:collapse;
+        width: 700px; 
+        margin-top: -625px;
+        margin-left: 800px;
+        background-color: rgb(74, 73, 77);
+        line-height: 100px;
+}
+th{
+        text-align: left;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+tr,th,td{
+        border:1px solid black;
+        line-height: 3;
+     }  
+#back1{
+    text-align: right;
+}
+#back{
+    color: aliceblue;
+    color: black;
+}
+#price{
+    color: aliceblue;
+    text-align: right;
+}
+#back3{
+    text-align: right;  
+}
+#payment1{
+    text-align: right;
+}
+#lear{
+    background-size: auto;
+    width: 1000px;
+}
+#idMenu{
+    text-align: center;
+    color: rgb(19, 11, 16);
+    font-size: 20px;
+}
+#idHead{
+    color: rgb(50, 66, 119);
+    text-align: auto;
+    width: 1200px;
+    height: 100px;
+    top: 100px;
+    text-align: right;
+    font-weight: bold;
+    font-family: Comic Sans MS;
+    font-size: 80px;
+}
+#idOrder{
+    color: rgb(19, 11, 16);
+}
+#idProduct{
+     text-align: right;  
+}
